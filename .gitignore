@@ -1,2 +1,3 @@
 .venv
 *.joblib
+stacked_model.pkl
